@@ -1,0 +1,16 @@
+﻿  main.cpp
+  Generating Code...
+  Compiling...
+  MainProgram.cpp
+  GeneticAlgorithm.cpp
+c:\users\lenovo\documents\visual studio 2015\projects\yz_odev2\yz_odev2\geneticalgorithm.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\lenovo\documents\visual studio 2015\projects\yz_odev2\yz_odev2\geneticalgorithm.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\lenovo\documents\visual studio 2015\projects\yz_odev2\yz_odev2\geneticalgorithm.cpp(108): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\lenovo\documents\visual studio 2015\projects\yz_odev2\yz_odev2\geneticalgorithm.cpp(163): warning C4018: '<': signed/unsigned mismatch
+c:\users\lenovo\documents\visual studio 2015\projects\yz_odev2\yz_odev2\geneticalgorithm.cpp(298): warning C4018: '<': signed/unsigned mismatch
+c:\users\lenovo\documents\visual studio 2015\projects\yz_odev2\yz_odev2\geneticalgorithm.cpp(315): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  OperationTree.cpp
+  YZ_odev2.vcxproj -> C:\Users\lenovo\Documents\Visual Studio 2015\Projects\YZ_odev2\Debug\YZ_odev2.exe
+  YZ_odev2.vcxproj -> C:\Users\lenovo\Documents\Visual Studio 2015\Projects\YZ_odev2\Debug\YZ_odev2.pdb (Full PDB)
